@@ -1,15 +1,15 @@
 <template>
   <div>
-    ddjj
+
   </div>
 </template>
 
 <script>
-  export default {
-    
-  }
+export default {
+  name: 'App'
+}
 </script>
 
-<style scoped>
+<style lang="less" scoped>
 
 </style>
